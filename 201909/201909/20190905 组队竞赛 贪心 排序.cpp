@@ -15,7 +15,7 @@ int main() {
 	while (cin >> n) {
 		long long sum = 0;
 		vector<int> a;
-		a.resize(3 * n);
+			a.resize(3 * n);
 		for (int i = 0; i < (3 * n); i++) {
 			cin >> a[i];
 		}
@@ -27,4 +27,8 @@ int main() {
 		cout << sum << endl;
 	}
 }
+
+
+
+
 

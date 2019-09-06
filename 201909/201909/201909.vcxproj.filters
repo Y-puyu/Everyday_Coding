@@ -21,5 +21,8 @@
     <ClCompile Include="20190906 删除公共字符 模拟 哈希 字符串.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="20190907 排序子序列 贪心.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

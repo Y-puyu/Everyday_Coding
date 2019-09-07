@@ -120,6 +120,7 @@
     </ClCompile>
     <ClCompile Include="20190906 删除公共字符 模拟 哈希 字符串.cpp" />
     <ClCompile Include="20190907 排序子序列 贪心.cpp" />
+    <ClCompile Include="20190908 倒置字符串 字符串 OJ技巧.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

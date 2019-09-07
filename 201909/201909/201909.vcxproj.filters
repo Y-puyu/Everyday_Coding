@@ -24,5 +24,8 @@
     <ClCompile Include="20190907 排序子序列 贪心.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="20190908 倒置字符串 字符串 OJ技巧.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

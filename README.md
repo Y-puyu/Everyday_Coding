@@ -4,6 +4,6 @@
 
 [1.组队竞赛---编程题(贪心、排序)](https://blog.csdn.net/yl_puyu/article/details/100549349)
 
-[2.删除公共字符---编程题(模拟、字符串、哈希表)](https://blog.csdn.net/yl_puyu/article/details/100569356）
+[2.删除公共字符---编程题(模拟、字符串、哈希表)](https://blog.csdn.net/yl_puyu/article/details/100569356)
 
 [3.排序子序列--编程题(贪心)](https://blog.csdn.net/yl_puyu/article/details/100588725)

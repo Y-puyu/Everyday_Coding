@@ -6,3 +6,4 @@
 [2. 删除公共字符---编程题(模拟、字符串、哈希表)](https://blog.csdn.net/yl_puyu/article/details/100569356)  
 [3. 排序子序列--编程题(贪心)](https://blog.csdn.net/yl_puyu/article/details/100588725)  
 [4. 倒置字符串--编程题(字符串、OJ技巧)](https://blog.csdn.net/yl_puyu/article/details/100609353)  
+[5. 倒置字符串--编程题(字符串、OJ技巧、程序优化)](https://blog.csdn.net/yl_puyu/article/details/100644415)  

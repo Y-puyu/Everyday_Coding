@@ -9,3 +9,5 @@
 [5. 倒置字符串--编程题(字符串、OJ技巧、程序优化)](https://blog.csdn.net/yl_puyu/article/details/100644415)  
 [6. n个数里出现次数大于等于n/2的数(数组、查找)](https://blog.csdn.net/yl_puyu/article/details/100680712)  
 [7. 计算糖果(穷举、数学)](https://blog.csdn.net/yl_puyu/article/details/100712679)  
+[8. 进制转换(进制转化、数学)](https://blog.csdn.net/yl_puyu/article/details/100714726)  
+

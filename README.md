@@ -14,3 +14,6 @@
 |[8. 进制转换(进制转化、数学)](https://blog.csdn.net/yl_puyu/article/details/100714726)|20190912  |
 |[9. 统计回问(字符串、穷举法)](https://blog.csdn.net/yl_puyu/article/details/102062189)|20191004  |
 |[10. 连续最大和(动态规划、贪心)](https://blog.csdn.net/yl_puyu/article/details/102066736)|20191004 | 
+|[11. 不要二(数学)](https://blog.csdn.net/yl_puyu/article/details/102175671)|20191005 | 
+|[12. 把字符串转换为成整数(字符串、迭代器、多方法)](https://blog.csdn.net/yl_puyu/article/details/102178440)|20191006 | 
+|[13. Fibonacci数列(模拟、数学)](https://blog.csdn.net/yl_puyu/article/details/102328315)|20191007 | 

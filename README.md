@@ -20,3 +20,4 @@
 |[14. 合法括号序列判断(栈、编程基础、字符串)](https://blog.csdn.net/yl_puyu/article/details/102333774)|20191008 | 
 |[15. 两种排序方法(排序、字符串)](https://blog.csdn.net/yl_puyu/article/details/102371173)|20191008 | 
 |[16. 求最小公倍数(编程基础、数学)](https://blog.csdn.net/yl_puyu/article/details/102372023)|20191008 | 
+|[17. 求最小公倍数(编程基础、数学)](https://blog.csdn.net/yl_puyu/article/details/102372023)|20191008 | 

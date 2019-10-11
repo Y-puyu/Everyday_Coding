@@ -22,3 +22,5 @@
 |[16. 求最小公倍数(编程基础、数学)](https://blog.csdn.net/yl_puyu/article/details/102372023)|20191008 | 
 |[17. 另类加法(位运算)](https://blog.csdn.net/yl_puyu/article/details/102472429)|20191009 | 
 |[18. 求路径总数 (动态规划、递归)](https://blog.csdn.net/yl_puyu/article/details/102472552)|20191009 | 
+|[19. 井字棋 (编程基础、数组)](https://blog.csdn.net/yl_puyu/article/details/102492658)|20191010 | 
+|[20. 密码强度等级 (长题目、字符串)](https://blog.csdn.net/yl_puyu/article/details/102493256)|20191010 | 

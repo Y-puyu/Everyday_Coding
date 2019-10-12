@@ -24,3 +24,5 @@
 |[18. 求路径总数 (动态规划、递归)](https://blog.csdn.net/yl_puyu/article/details/102472552)|20191009 | 
 |[19. 井字棋 (编程基础、数组)](https://blog.csdn.net/yl_puyu/article/details/102492658)|20191010 | 
 |[20. 密码强度等级 (长题目、字符串)](https://blog.csdn.net/yl_puyu/article/details/102493256)|20191010 | 
+|[21. 最近公共祖先(递归、动态规划)](https://blog.csdn.net/yl_puyu/article/details/102511437)|20191011 | 
+|[22. 求最大连续bit数 (位运算)](https://blog.csdn.net/yl_puyu/article/details/102511655)|20191011 | 

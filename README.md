@@ -26,3 +26,5 @@
 |[20. 密码强度等级 (长题目、字符串)](https://blog.csdn.net/yl_puyu/article/details/102493256)|20191010 | 
 |[21. 最近公共祖先(递归、动态规划)](https://blog.csdn.net/yl_puyu/article/details/102511437)|20191011 | 
 |[22. 求最大连续bit数 (位运算)](https://blog.csdn.net/yl_puyu/article/details/102511655)|20191011 | 
+|[23. 二进制插入(位运算、编程基础)](https://blog.csdn.net/yl_puyu/article/details/102516242)|20191012 | 
+|[24. 查找组成一个偶数最接近的两个素数(素数问题、编程基础)](https://blog.csdn.net/yl_puyu/article/details/102516791)|20191012 | 

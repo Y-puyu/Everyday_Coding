@@ -30,3 +30,5 @@
 |[24. 查找组成一个偶数最接近的两个素数(素数问题、编程基础)](https://blog.csdn.net/yl_puyu/article/details/102516791)|20191012 | 
 |[25. 参数解析(字符串，长题目)](https://blog.csdn.net/yl_puyu/article/details/102535728)|20191013 | 
 |[26. 跳石板(贪心、动态规划)](https://blog.csdn.net/yl_puyu/article/details/102536018)|20191013 | 
+|[27. 计算日期到天数转换(日期类)](https://blog.csdn.net/yl_puyu/article/details/102563251)|20191014 | 
+|[28. 幸运的袋子(穷举法、数学、数论)](https://blog.csdn.net/yl_puyu/article/details/102563546)|20191014 | 

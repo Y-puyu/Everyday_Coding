@@ -32,3 +32,5 @@
 |[26. 跳石板(贪心、动态规划)](https://blog.csdn.net/yl_puyu/article/details/102536018)|20191013 | 
 |[27. 计算日期到天数转换(日期类)](https://blog.csdn.net/yl_puyu/article/details/102563251)|20191014 | 
 |[28. 幸运的袋子(穷举法、数学、数论)](https://blog.csdn.net/yl_puyu/article/details/102563546)|20191014 | 
+|[29. 查找输入整数二进制中1的个数(位运算)](https://blog.csdn.net/yl_puyu/article/details/102596573)|20191015 | 
+|[30. 手套(数学、模拟、贪心法)](https://blog.csdn.net/yl_puyu/article/details/102596723)|20191015 | 

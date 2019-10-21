@@ -34,3 +34,6 @@
 |[28. 幸运的袋子(穷举法、数学、数论)](https://blog.csdn.net/yl_puyu/article/details/102563546)|20191014 | 
 |[29. 查找输入整数二进制中1的个数(位运算)](https://blog.csdn.net/yl_puyu/article/details/102596573)|20191015 | 
 |[30. 手套(数学、模拟、贪心法)](https://blog.csdn.net/yl_puyu/article/details/102596723)|20191015 | 
+|[31. 完全数计算(约数、编程基础)](https://blog.csdn.net/yl_puyu/article/details/102616371)|20191016 | 
+|[32. 扑克牌大小(字符串、查找、模拟)](https://blog.csdn.net/yl_puyu/article/details/102616666)|20191016 | 
+|[32. 扑克牌大小(字符串、查找、模拟)](https://blog.csdn.net/yl_puyu/article/details/102616666)|20191016 | 

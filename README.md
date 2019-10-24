@@ -40,8 +40,10 @@
 |[34. 超长正整数相加(字符串)](https://blog.csdn.net/yl_puyu/article/details/102644394)|20191017 | 
 |[35. 统计每个月兔子的总数(查找、排序)](https://blog.csdn.net/yl_puyu/article/details/102659409)|20191018 | 
 |[36. 字符串通配符(字符串、递归)](https://blog.csdn.net/yl_puyu/article/details/102660149)|20191018 | 
-|[37. 汽水瓶(数学、模拟)](https://blog.csdn.net/yl_puyu/article/details/102661246)|20191018 | 
-|[38. 查找两个字符串a,b中的最长公共子串(字符串、动态规划)](https://blog.csdn.net/yl_puyu/article/details/102672906)|20191018 | 
-|[39. 字符串反转(字符串、编程基础)](https://blog.csdn.net/yl_puyu/article/details/102673616)|20191018 | 
-|[40. 公共字串计算(字符串、递归、动态规划)](https://blog.csdn.net/yl_puyu/article/details/102674150)|20191018 | 
+|[37. 汽水瓶(数学、模拟)](https://blog.csdn.net/yl_puyu/article/details/102661246)|20191019 | 
+|[38. 查找两个字符串a,b中的最长公共子串(字符串、动态规划)](https://blog.csdn.net/yl_puyu/article/details/102672906)|20191019 | 
+|[39. 字符串反转(字符串、编程基础)](https://blog.csdn.net/yl_puyu/article/details/102673616)|20191020 | 
+|[40. 公共字串计算(字符串、递归、动态规划)](https://blog.csdn.net/yl_puyu/article/details/102674150)|20191020 | 
+|[41. 洗牌(排序、穷举法、模拟)](https://blog.csdn.net/yl_puyu/article/details/102677753)|20191021 | 
+|[42. MP3光标位置(数组、长题目)](https://blog.csdn.net/yl_puyu/article/details/102678922)|20191021 | 
 

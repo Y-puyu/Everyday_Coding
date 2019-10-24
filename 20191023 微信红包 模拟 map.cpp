@@ -18,3 +18,20 @@ public:
 			return 0;
 	}
 };
+
+
+class Gift {
+public:
+	int getValue(vector<int> gifts, int n) {
+		// write code here
+		map<int, int> count;
+		int middle = gifts.size() / 2;
+		for (const auto& e : gifts)
+			++count[e];
+		for (const auto& e : count) {
+			if (e.second >= middle)
+				return e.first;
+		}
+		return 0;
+	}
+};

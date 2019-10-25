@@ -46,4 +46,8 @@
 |[40. 公共字串计算(字符串、递归、动态规划)](https://blog.csdn.net/yl_puyu/article/details/102674150)|20191020 | 
 |[41. 洗牌(排序、穷举法、模拟)](https://blog.csdn.net/yl_puyu/article/details/102677753)|20191021 | 
 |[42. MP3光标位置(数组、长题目)](https://blog.csdn.net/yl_puyu/article/details/102678922)|20191021 | 
+|[43. 小易的升级之路(递归、数学、模拟)](https://blog.csdn.net/yl_puyu/article/details/102693475)|20191022 | 
+|[44. 找出字符串中第一个只出现一次的字符(字符串、哈希)](https://blog.csdn.net/yl_puyu/article/details/102709568)|20191022 | 
+|[45. 微信红包(模拟、map)](https://blog.csdn.net/yl_puyu/article/details/102710612)|20191023 | 
+|[46. 计算字符串的距离(字符串、动态规划)](https://blog.csdn.net/yl_puyu/article/details/102710973)|20191023 | 
 

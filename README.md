@@ -50,4 +50,9 @@
 |[44. 找出字符串中第一个只出现一次的字符(字符串、哈希)](https://blog.csdn.net/yl_puyu/article/details/102709568)|20191022 | 
 |[45. 微信红包(模拟、map)](https://blog.csdn.net/yl_puyu/article/details/102710612)|20191023 | 
 |[46. 计算字符串的距离(字符串、动态规划)](https://blog.csdn.net/yl_puyu/article/details/102710973)|20191023 | 
+|[47. 年终奖(动态规划、区域dp)](https://blog.csdn.net/yl_puyu/article/details/102730508)|20191024 | 
+|[48. 迷宫问题(递归、动态规划、回溯法)](https://blog.csdn.net/yl_puyu/article/details/102732733)|20191024 | 
+|[49. 星际密码(变式斐波那切数列、数学、找规律)](https://blog.csdn.net/yl_puyu/article/details/102750643)|20191025 | 
+|[50. 数根(字符串、数学、递归)](https://blog.csdn.net/yl_puyu/article/details/102751091)|20191025 | 
+|[50. 数根(字符串、数学、递归)](https://blog.csdn.net/yl_puyu/article/details/102751091)|20191025 | 
 

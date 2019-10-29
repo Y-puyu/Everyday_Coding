@@ -54,5 +54,6 @@
 |[48. 迷宫问题(递归、动态规划、回溯法)](https://blog.csdn.net/yl_puyu/article/details/102732733)|20191024 | 
 |[49. 星际密码(变式斐波那切数列、数学、找规律)](https://blog.csdn.net/yl_puyu/article/details/102750643)|20191025 | 
 |[50. 数根(字符串、数学、递归)](https://blog.csdn.net/yl_puyu/article/details/102751091)|20191025 | 
-|[50. 数根(字符串、数学、递归)](https://blog.csdn.net/yl_puyu/article/details/102751091)|20191025 | 
+|[51. 变态跳台阶(数学、pow函数)](https://blog.csdn.net/yl_puyu/article/details/102790770)|20191026 | 
+|[52. 快到碗里来(数学)](https://blog.csdn.net/yl_puyu/article/details/102791021)|20191026 | 
 

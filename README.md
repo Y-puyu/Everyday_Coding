@@ -56,4 +56,5 @@
 |[50. 数根(字符串、数学、递归)](https://blog.csdn.net/yl_puyu/article/details/102751091)|20191025 | 
 |[51. 变态跳台阶(数学、pow函数)](https://blog.csdn.net/yl_puyu/article/details/102790770)|20191026 | 
 |[52. 快到碗里来(数学)](https://blog.csdn.net/yl_puyu/article/details/102791021)|20191026 | 
-
+|[51. 变态跳台阶(数学、pow函数)](https://blog.csdn.net/yl_puyu/article/details/102790770)|20191026 | 
+|[52. 快到碗里来(数学)](https://blog.csdn.net/yl_puyu/article/details/102791021)|20191026 | 

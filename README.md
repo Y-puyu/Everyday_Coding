@@ -60,3 +60,5 @@
 |[54. 三角形(数学、字符串)](https://blog.csdn.net/yl_puyu/article/details/102829365)|20191027 | 
 |[55. 奇数位上都是奇数或者偶数位上都是偶数(编程基础)](https://blog.csdn.net/yl_puyu/article/details/102829606)|20191028 | 
 |[56. 猴子分桃(数学归纳)](https://blog.csdn.net/yl_puyu/article/details/102829715)|20191028 | 
+|[55. 奇数位上都是奇数或者偶数位上都是偶数(编程基础)](https://blog.csdn.net/yl_puyu/article/details/102829606)|20191028 | 
+|[56. 猴子分桃(数学归纳)](https://blog.csdn.net/yl_puyu/article/details/102829715)|20191028 | 

@@ -36,7 +36,7 @@
 |[30. 手套(数学、模拟、贪心法)](https://blog.csdn.net/yl_puyu/article/details/102596723)|20191015 | 
 |[31. 完全数计算(约数、编程基础)](https://blog.csdn.net/yl_puyu/article/details/102616371)|20191016 | 
 |[32. 扑克牌大小(字符串、查找、模拟)](https://blog.csdn.net/yl_puyu/article/details/102616666)|20191016 | 
-|[33. 杨辉三角的变形(字符串、动态规划)](https://blog.csdn.net/yl_puyu/article/details/102641272)|20191017 | 
+|[33. 杨辉三角的变形(字符串、动态规划)](https://blog.csdnet/yl_puyu/article/details/102641272)|20191017 | 
 |[34. 超长正整数相加(字符串)](https://blog.csdn.net/yl_puyu/article/details/102644394)|20191017 | 
 |[35. 统计每个月兔子的总数(查找、排序)](https://blog.csdn.net/yl_puyu/article/details/102659409)|20191018 | 
 |[36. 字符串通配符(字符串、递归)](https://blog.csdn.net/yl_puyu/article/details/102660149)|20191018 | 

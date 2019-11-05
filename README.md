@@ -64,3 +64,4 @@
 |[56. 猴子分桃(数学归纳)](https://blog.csdn.net/yl_puyu/article/details/102829715)|20191029 | 
 |[55. 奇数位上都是奇数或者偶数位上都是偶数(编程基础)](https://blog.csdn.net/yl_puyu/article/details/102829606)|20191029 | 
 |[56. 猴子分桃(数学归纳)](https://blog.csdn.net/yl_puyu/article/details/102829715)|20191029 | 
+|[56. 猴子分桃(数学归纳)](https://blog.csdn.net/yl_puyu/article/details/102829715)|20191029 | 

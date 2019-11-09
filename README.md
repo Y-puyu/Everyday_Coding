@@ -60,8 +60,8 @@
 |[54. 三角形(数学、字符串)](https://blog.csdn.net/yl_puyu/article/details/102829365)|20191027 | 
 |[55. 奇数位上都是奇数或者偶数位上都是偶数(编程基础)](https://blog.csdn.net/yl_puyu/article/details/102829606)|20191028 | 
 |[56. 猴子分桃(数学归纳)](https://blog.csdn.net/yl_puyu/article/details/102829715)|20191028 | 
-|[55. 奇数位上都是奇数或者偶数位上都是偶数(编程基础)](https://blog.csdn.net/yl_puyu/article/details/102829606)|20191029 | 
-|[56. 猴子分桃(数学归纳)](https://blog.csdn.net/yl_puyu/article/details/102829715)|20191029 | 
-|[55. 奇数位上都是奇数或者偶数位上都是偶数(编程基础)](https://blog.csdn.net/yl_puyu/article/details/102829606)|20191029 | 
-|[56. 猴子分桃(数学归纳)](https://blog.csdn.net/yl_puyu/article/details/102829715)|20191029 | 
-|[56. 猴子分桃(数学归纳)](https://blog.csdn.net/yl_puyu/article/details/102829715)|20191029 | 
+|[57. 求正数数组的最小不可组成和(动态规划、0-1背包)](https://blog.csdn.net/yl_puyu/article/details/102963801)|20191029 | 
+|[58. 有假币(数学)](https://blog.csdn.net/yl_puyu/article/details/102964231)|20191029 | 
+|[59. 最难的问题(编程基础、getline输入)](https://blog.csdn.net/yl_puyu/article/details/102990348)|20191030 | 
+|[60. 因子个数(数学)](https://blog.csdn.net/yl_puyu/article/details/102990680)|20191030 | 
+|[61. 分解因数(数学)](https://blog.csdn.net/yl_puyu/article/details/102990904)|20191031 | 

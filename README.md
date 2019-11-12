@@ -38,7 +38,7 @@
 |[32. 扑克牌大小(字符串、查找、模拟)](https://blog.csdn.net/yl_puyu/article/details/102616666)|20191016 | 
 |[33. 杨辉三角的变形(字符串、动态规划)](https://blog.csdnet/yl_puyu/article/details/102641272)|20191017 | 
 |[34. 超长正整数相加(字符串)](https://blog.csdn.net/yl_puyu/article/details/102644394)|20191017 | 
-|[35. 统计每个月兔子的总数(查找、排序)](https://blog.csdn.net/yl_puyu/article/details/102659409)|20191018 | 
+|[35. 统计每个月兔子的总数(查找、排序、fib数列变种)](https://blog.csdn.net/yl_puyu/article/details/102659409)|20191018 | 
 |[36. 字符串通配符(字符串、递归)](https://blog.csdn.net/yl_puyu/article/details/102660149)|20191018 | 
 |[37. 汽水瓶(数学、模拟)](https://blog.csdn.net/yl_puyu/article/details/102661246)|20191019 | 
 |[38. 查找两个字符串a,b中的最长公共子串(字符串、动态规划)](https://blog.csdn.net/yl_puyu/article/details/102672906)|20191019 | 

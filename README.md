@@ -76,3 +76,5 @@
 |[70. 抄送列表(字符串、find函数)](https://blog.csdn.net/yl_puyu/article/details/103040415)|20191104 | 
 |[71. Rational Arithmetic(有理数类、重载)](https://blog.csdn.net/yl_puyu/article/details/103048495)|20191105 | 
 |[72. Pre-Post(子树、排列组合)](https://blog.csdn.net/yl_puyu/article/details/103049093)|20191105 | 
+|[73. 电话号码(字符串、set)](https://blog.csdn.net/yl_puyu/article/details/103070229)|20191106t | 
+|[74. 求和(递归、dfs、背包)](https://blog.csdn.net/yl_puyu/article/details/103071942)|20191105 | 

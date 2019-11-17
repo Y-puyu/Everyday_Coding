@@ -73,4 +73,4 @@
 |[67. 收件人列表(字符串、cin.get()函数)](https://blog.csdn.net/yl_puyu/article/details/103021564)|20191103 | 
 |[68. 养兔子(fib数列)](https://blog.csdn.net/yl_puyu/article/details/103022246)|20191103 | 
 |[69. 年会抽奖(错排问题、setprecision函数、有效小数位输出)](https://blog.csdn.net/yl_puyu/article/details/103026480|20191104 | 
-|[70. 抄送列表(字符串、find函数)](https://blog.csdn.net/yl_puyu/article/details/103040415)|20191031 | 
+|[70. 抄送列表(字符串、find函数)](https://blog.csdn.net/yl_puyu/article/details/103040415)|20191104 | 

@@ -72,5 +72,5 @@
 |[66. 客似云来(fib数列公式)](https://blog.csdn.net/yl_puyu/article/details/103018756)|20191102 | 
 |[67. 收件人列表(字符串、cin.get()函数)](https://blog.csdn.net/yl_puyu/article/details/103021564)|20191103 | 
 |[68. 养兔子(fib数列)](https://blog.csdn.net/yl_puyu/article/details/103022246)|20191103 | 
-|[69. 年会抽奖(错排问题、setprecision函数、有效小数位输出)](https://blog.csdn.net/yl_puyu/article/details/102990904)|20191031 | 
-|[62. 美国节日(日期计算、蔡勒公式)](https://blog.csdn.net/yl_puyu/article/details/102991575)|20191031 | 
+|[69. 年会抽奖(错排问题、setprecision函数、有效小数位输出)](https://blog.csdn.net/yl_puyu/article/details/103026480|20191104 | 
+|[70. 抄送列表(字符串、find函数)](https://blog.csdn.net/yl_puyu/article/details/103040415)|20191031 | 

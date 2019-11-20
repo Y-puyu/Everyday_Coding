@@ -80,3 +80,5 @@
 |[74. 求和(递归、dfs、背包)](https://blog.csdn.net/yl_puyu/article/details/103071942)|20191106 | 
 |[73. 电话号码(字符串、set)](https://blog.csdn.net/yl_puyu/article/details/103070229)|20191107 | 
 |[74. 求和(递归、dfs、背包)](https://blog.csdn.net/yl_puyu/article/details/103071942)|20191107 | 
+|[73. 电话号码(字符串、set)](https://blog.csdn.net/yl_puyu/article/details/103070229)|20191108 | 
+|[74. 求和(递归、dfs、背包)](https://blog.csdn.net/yl_puyu/article/details/103071942)|20191108 | 

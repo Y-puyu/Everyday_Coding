@@ -84,3 +84,7 @@
 |[76. 查找兄弟单词(vector、多步骤)](https://blog.csdn.net/yl_puyu/article/details/103113286)|20191108 | 
 |[77. 数组中出现次数超过一半的数字(中位数、多数投票算法)](https://blog.csdn.net/yl_puyu/article/details/103114154)|20191109 | 
 |[78. 简单错误记录(rfind、题意理解)](https://blog.csdn.net/yl_puyu/article/details/103114728)|20191109 | 
+|[79. 合唱团(动态规划、网易17系列)](https://blog.csdn.net/yl_puyu/article/details/103114154)|20191110 | 
+|[78. 简单错误记录(rfind、题意理解)](https://blog.csdn.net/yl_puyu/article/details/103114728)|20191110 | 
+|[77. 数组中出现次数超过一半的数字(中位数、多数投票算法)](https://blog.csdn.net/yl_puyu/article/details/103114154)|20191109 | 
+|[78. 简单错误记录(rfind、题意理解)](https://blog.csdn.net/yl_puyu/article/details/103114728)|20191109 | 

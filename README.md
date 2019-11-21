@@ -83,4 +83,4 @@
 |[75. 乒乓球筐(map)](https://blog.csdn.net/yl_puyu/article/details/103113061)|20191108 | 
 |[76. 查找兄弟单词(vector、多步骤)](https://blog.csdn.net/yl_puyu/article/details/103113286)|20191108 | 
 |[77. 数组中出现次数超过一半的数字(中位数、多数投票算法)](https://blog.csdn.net/yl_puyu/article/details/103114154)|20191109 | 
-|[76. 查找兄弟单词(vector、多步骤)](https://blog.csdn.net/yl_puyu/article/details/103113286)|20191109 | 
+|[78. 简单错误记录(rfind、题意理解)](https://blog.csdn.net/yl_puyu/article/details/103114728)|20191109 | 

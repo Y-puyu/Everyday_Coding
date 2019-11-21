@@ -86,5 +86,5 @@
 |[78. 简单错误记录(rfind、题意理解)](https://blog.csdn.net/yl_puyu/article/details/103114728)|20191109 | 
 |[79. 合唱团(动态规划、网易17系列)](https://blog.csdn.net/yl_puyu/article/details/103126565)|20191110 | 
 |[80. 马戏团(动态规划、最长上升子序列)](https://blog.csdn.net/yl_puyu/article/details/103129835)|20191110 | 
-|[77. 数组中出现次数超过一半的数字(中位数、多数投票算法)](https://blog.csdn.net/yl_puyu/article/details/103114154)|20191109 | 
-|[78. 简单错误记录(rfind、题意理解)](https://blog.csdn.net/yl_puyu/article/details/103114728)|20191109 | 
+|[81. 左右最值最大差(贪心)](https://blog.csdn.net/yl_puyu/article/details/103133917)|20191111 | 
+|[82. 顺时针打印矩阵(多边界条件)](https://blog.csdn.net/yl_puyu/article/details/103153710)|20191111 | 

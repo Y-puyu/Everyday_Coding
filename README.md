@@ -90,5 +90,5 @@
 |[82. 顺时针打印矩阵(多边界条件)](https://blog.csdn.net/yl_puyu/article/details/103153710)|20191111 | 
 |[83. 数据库连接池(stack、set)](https://blog.csdn.net/yl_puyu/article/details/103154174)|20191112 | 
 |[84. mkdir(字符串、逻辑)](https://blog.csdn.net/yl_puyu/article/details/103154182)|20191112 | 
-|[81. 左右最值最大差(贪心)](https://blog.csdn.net/yl_puyu/article/details/103133917)|20191113 | 
-|[82. 顺时针打印矩阵(多边界条件)](https://blog.csdn.net/yl_puyu/article/details/103153710)|20191113 | 
+|[85. 红与黑(图、DFS)](https://blog.csdn.net/yl_puyu/article/details/103172501)|20191113 | 
+|[86. 蘑菇阵(动态规划、概率计算、边界问题)](https://blog.csdn.net/yl_puyu/article/details/103185429)|20191113 | 

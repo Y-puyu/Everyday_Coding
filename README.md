@@ -94,10 +94,10 @@
 |[86. 蘑菇阵(动态规划、概率计算、边界问题)](https://blog.csdn.net/yl_puyu/article/details/103185429)|20191113 | 
 |[87. 字符串计数(字符串、建模思维、26进制倒序输出)](https://blog.csdn.net/yl_puyu/article/details/103186618)|20191114 | 
 |[88. 最长公共子序列(动态规划、LCS问题)](https://blog.csdn.net/yl_puyu/article/details/103190181)|20191114 | 
-|[87. 字符串计数(字符串、建模思维、26进制倒序输出)](https://blog.csdn.net/yl_puyu/article/details/103186618)|20191114 | 
-|[88. 最长公共子序列(动态规划、LCS问题)](https://blog.csdn.net/yl_puyu/article/details/103190181)|20191114 | 
-|[87. 字符串计数(字符串、建模思维、26进制倒序输出)](https://blog.csdn.net/yl_puyu/article/details/103186618)|20191114 | 
-|[88. 最长公共子序列(动态规划、LCS问题)](https://blog.csdn.net/yl_puyu/article/details/103190181)|20191114 | 
+|[87. 字符串计数(字符串、建模思维、26进制倒序输出)](https://blog.csdn.net/yl_puyu/article/details/103186618)|20191115 | 
+|[88. 最长公共子序列(动态规划、LCS问题)](https://blog.csdn.net/yl_puyu/article/details/103190181)|20191115 | 
+|[87. 字符串计数(字符串、建模思维、26进制倒序输出)](https://blog.csdn.net/yl_puyu/article/details/103186618)|20191116 | 
+|[88. 最长公共子序列(动态规划、LCS问题)](https://blog.csdn.net/yl_puyu/article/details/103190181)|20191116 | 
 |[87. 字符串计数(字符串、建模思维、26进制倒序输出)](https://blog.csdn.net/yl_puyu/article/details/103186618)|20191114 | 
 |[88. 最长公共子序列(动态规划、LCS问题)](https://blog.csdn.net/yl_puyu/article/details/103190181)|20191114 | 
 

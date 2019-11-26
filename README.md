@@ -94,11 +94,11 @@
 |[86. 蘑菇阵(动态规划、概率计算、边界问题)](https://blog.csdn.net/yl_puyu/article/details/103185429)|20191113 | 
 |[87. 字符串计数(字符串、建模思维、26进制倒序输出)](https://blog.csdn.net/yl_puyu/article/details/103186618)|20191114 | 
 |[88. 最长公共子序列(动态规划、LCS问题)](https://blog.csdn.net/yl_puyu/article/details/103190181)|20191114 | 
-|[87. 字符串计数(字符串、建模思维、26进制倒序输出)](https://blog.csdn.net/yl_puyu/article/details/103186618)|20191115 | 
-|[88. 最长公共子序列(动态规划、LCS问题)](https://blog.csdn.net/yl_puyu/article/details/103190181)|20191115 | 
-|[87. 字符串计数(字符串、建模思维、26进制倒序输出)](https://blog.csdn.net/yl_puyu/article/details/103186618)|20191116 | 
-|[88. 最长公共子序列(动态规划、LCS问题)](https://blog.csdn.net/yl_puyu/article/details/103190181)|20191116 | 
-|[87. 字符串计数(字符串、建模思维、26进制倒序输出)](https://blog.csdn.net/yl_puyu/article/details/103186618)|20191114 | 
-|[88. 最长公共子序列(动态规划、LCS问题)](https://blog.csdn.net/yl_puyu/article/details/103190181)|20191114 | 
+|[89. 发邮件(错排问题、递归)](https://blog.csdn.net/yl_puyu/article/details/103191904)|20191115 | 
+|[90. 最长上升子序列(动态规划)](https://blog.csdn.net/yl_puyu/article/details/103192259)|20191115 | 
+|[91. 五子棋(字符串、查找)](https://blog.csdn.net/yl_puyu/article/details/103207339)|20191116 | 
+|[92. Emacs计算器(逆波兰表达式、栈)](https://blog.csdn.net/yl_puyu/article/details/103207698)|20191116 | 
+|[93. 解读密码(字符串、getline)](https://blog.csdn.net/yl_puyu/article/details/103207915)|20191117 | 
+|[94. 走迷宫(广度优先遍历、迷宫问题)](https://blog.csdn.net/yl_puyu/article/details/103208050)|20191117 | 
 
 

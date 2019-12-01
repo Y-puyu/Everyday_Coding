@@ -1,5 +1,5 @@
 # Everyday_Coding
-每日至少更新一道算法编程题，其题目详细解析已经同步到我的CSDN:[Y-puyu的CSDN博客](https://blog.csdn.net/yl_puyu)，博客内主要更新学习C/C++、Linux学习内容，及数学建模相关知识，希望能够及时记录学习成果，便于回顾复习，也能够与大家一起交流进步。 
+每日至少更新一道算法编程题，其题目详细解析已经同步到我的CSDN:[Y-puyu的CSDN博客](https://blog.csdn.net/yl_puyu)，博客内主要更新学习C/C++、Linux学习内容，及数学建模相关知识，希望能够及时记录学习成果，便于及时回顾复习，也能够与大家一起交流进步。 
 
 ### 每日一题CSND博客详解链接：
 |题目简述|提交日期|
@@ -38,7 +38,7 @@
 |[32. 扑克牌大小(字符串、查找、模拟)](https://blog.csdn.net/yl_puyu/article/details/102616666)|20191016 | 
 |[33. 杨辉三角的变形(字符串、动态规划)](https://blog.csdnet/yl_puyu/article/details/102641272)|20191017 | 
 |[34. 超长正整数相加(字符串)](https://blog.csdn.net/yl_puyu/article/details/102644394)|20191017 | 
-|[35. 统计每个月兔子的总数(查找、排序)](https://blog.csdn.net/yl_puyu/article/details/102659409)|20191018 | 
+|[35. 统计每个月兔子的总数(查找、排序、fib数列变种)](https://blog.csdn.net/yl_puyu/article/details/102659409)|20191018 | 
 |[36. 字符串通配符(字符串、递归)](https://blog.csdn.net/yl_puyu/article/details/102660149)|20191018 | 
 |[37. 汽水瓶(数学、模拟)](https://blog.csdn.net/yl_puyu/article/details/102661246)|20191019 | 
 |[38. 查找两个字符串a,b中的最长公共子串(字符串、动态规划)](https://blog.csdn.net/yl_puyu/article/details/102672906)|20191019 | 
@@ -66,3 +66,39 @@
 |[60. 因子个数(数学)](https://blog.csdn.net/yl_puyu/article/details/102990680)|20191030 | 
 |[61. 分解因数(数学)](https://blog.csdn.net/yl_puyu/article/details/102990904)|20191031 | 
 |[62. 美国节日(日期计算、蔡勒公式)](https://blog.csdn.net/yl_puyu/article/details/102991575)|20191031 | 
+|[63. 淘宝网店(日期计算)](https://blog.csdn.net/yl_puyu/article/details/103015338)|20191101 | 
+|[64. 斐波那契凤尾(fib数列、setw与setfill函数)](https://blog.csdn.net/yl_puyu/article/details/103015983)|20191101 | 
+|[65. 剪花布条(字符串、find函数)](https://blog.csdn.net/yl_puyu/article/details/103017168)|20191102 | 
+|[66. 客似云来(fib数列公式)](https://blog.csdn.net/yl_puyu/article/details/103018756)|20191102 | 
+|[67. 收件人列表(字符串、cin.get()函数)](https://blog.csdn.net/yl_puyu/article/details/103021564)|20191103 | 
+|[68. 养兔子(fib数列)](https://blog.csdn.net/yl_puyu/article/details/103022246)|20191103 | 
+|[69. 年会抽奖(错排问题、setprecision函数、有效小数位输出)](https://blog.csdn.net/yl_puyu/article/details/103026480)|20191104 | 
+|[70. 抄送列表(字符串、find函数)](https://blog.csdn.net/yl_puyu/article/details/103040415)|20191104 | 
+|[71. Rational Arithmetic(有理数类、重载)](https://blog.csdn.net/yl_puyu/article/details/103048495)|20191105 | 
+|[72. Pre-Post(子树、排列组合)](https://blog.csdn.net/yl_puyu/article/details/103049093)|20191105 | 
+|[73. 电话号码(字符串、set)](https://blog.csdn.net/yl_puyu/article/details/103070229)|20191106 | 
+|[74. 求和(递归、dfs、背包)](https://blog.csdn.net/yl_puyu/article/details/103071942)|20191106 | 
+|[73. 电话号码(字符串、set)](https://blog.csdn.net/yl_puyu/article/details/103070229)|20191107 | 
+|[74. 求和(递归、dfs、背包)](https://blog.csdn.net/yl_puyu/article/details/103071942)|20191107 | 
+|[75. 乒乓球筐(map)](https://blog.csdn.net/yl_puyu/article/details/103113061)|20191108 | 
+|[76. 查找兄弟单词(vector、多步骤)](https://blog.csdn.net/yl_puyu/article/details/103113286)|20191108 | 
+|[77. 数组中出现次数超过一半的数字(中位数、多数投票算法)](https://blog.csdn.net/yl_puyu/article/details/103114154)|20191109 | 
+|[78. 简单错误记录(rfind、题意理解)](https://blog.csdn.net/yl_puyu/article/details/103114728)|20191109 | 
+|[79. 合唱团(动态规划、网易17系列)](https://blog.csdn.net/yl_puyu/article/details/103126565)|20191110 | 
+|[80. 马戏团(动态规划、最长上升子序列)](https://blog.csdn.net/yl_puyu/article/details/103129835)|20191110 | 
+|[81. 左右最值最大差(贪心)](https://blog.csdn.net/yl_puyu/article/details/103133917)|20191111 | 
+|[82. 顺时针打印矩阵(多边界条件)](https://blog.csdn.net/yl_puyu/article/details/103153710)|20191111 | 
+|[83. 数据库连接池(stack、set)](https://blog.csdn.net/yl_puyu/article/details/103154174)|20191112 | 
+|[84. mkdir(字符串、逻辑)](https://blog.csdn.net/yl_puyu/article/details/103154182)|20191112 | 
+|[85. 红与黑(图、DFS)](https://blog.csdn.net/yl_puyu/article/details/103172501)|20191113 | 
+|[86. 蘑菇阵(动态规划、概率计算、边界问题)](https://blog.csdn.net/yl_puyu/article/details/103185429)|20191113 | 
+|[87. 字符串计数(字符串、建模思维、26进制倒序输出)](https://blog.csdn.net/yl_puyu/article/details/103186618)|20191114 | 
+|[88. 最长公共子序列(动态规划、LCS问题)](https://blog.csdn.net/yl_puyu/article/details/103190181)|20191114 | 
+|[89. 发邮件(错排问题、递归)](https://blog.csdn.net/yl_puyu/article/details/103191904)|20191115 | 
+|[90. 最长上升子序列(动态规划)](https://blog.csdn.net/yl_puyu/article/details/103192259)|20191115 | 
+|[91. 五子棋(字符串、查找)](https://blog.csdn.net/yl_puyu/article/details/103207339)|20191116 | 
+|[92. Emacs计算器(逆波兰表达式、栈)](https://blog.csdn.net/yl_puyu/article/details/103207698)|20191116 | 
+|[93. 解读密码(字符串、getline)](https://blog.csdn.net/yl_puyu/article/details/103207915)|20191117 | 
+|[94. 走迷宫(广度优先遍历、迷宫问题)](https://blog.csdn.net/yl_puyu/article/details/103208050)|20191117 | 
+
+

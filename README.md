@@ -1,5 +1,5 @@
 # Everyday_Coding
-每日至少更新一道算法编程题，其题目详细解析已经同步到我的CSDN:[Y-puyu的CSDN博客](https://blog.csdn.net/yl_puyu)，博客内主要更新学习C/C++、Linux学习内容，及数学建模相关知识，希望能够及时记录学习成果，便于及时回顾复习，也能够与大家一起交流进步。 
+每日至少更新一道算法编程题，其题目详细解析已经同步到我的CSDN:[Y-puyu的CSDN博客](https://blog.csdn.net/yl_puyu)，博客内主要更新学习C/C++、Linux学习内容，及数学建模相关知识，希望能够及时记录学习成果，便于及时回顾复习，也能够与大家一起交流进步! 
 
 ### 每日一题CSND博客详解链接：
 |题目简述|提交日期|
@@ -56,7 +56,7 @@
 |[50. 数根(字符串、数学、递归)](https://blog.csdn.net/yl_puyu/article/details/102751091)|20191025 | 
 |[51. 变态跳台阶(数学、pow函数)](https://blog.csdn.net/yl_puyu/article/details/102790770)|20191026 | 
 |[52. 快到碗里来(数学)](https://blog.csdn.net/yl_puyu/article/details/102829119)|20191026 | 
-|[53. 不用加减乘除做加法(位运算)](https://blog.csdn.net/yl_puyu/article/details/102790770)|20191027 | 
+|[53. 不用加减乘除做加法(位运算)](https://blog.csdn.net/yl_puyu/article/details/102829119)|20191027 | 
 |[54. 三角形(数学、字符串)](https://blog.csdn.net/yl_puyu/article/details/102829365)|20191027 | 
 |[55. 奇数位上都是奇数或者偶数位上都是偶数(编程基础)](https://blog.csdn.net/yl_puyu/article/details/102829606)|20191028 | 
 |[56. 猴子分桃(数学归纳)](https://blog.csdn.net/yl_puyu/article/details/102829715)|20191028 | 

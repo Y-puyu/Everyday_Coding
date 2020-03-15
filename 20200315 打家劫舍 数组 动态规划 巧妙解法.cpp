@@ -1,16 +1,17 @@
-// 执行用时 :16 ms, 在所有 C++ 提交中击败了62.48%的用户
-// 内存消耗 :13.6 MB, 在所有 C++ 提交中击败了100.00%的用户
+// 执行用时 :0 ms, 在所有 C++ 提交中击败了100.00%的用户
+// 内存消耗 :9.5 MB, 在所有 C++ 提交中击败了5.34%的用户
 
 class Solution {
 public:
-    string minNumber(vector<int>& nums) {
-       string res;
-        sort(nums.begin(), nums.end(), [](int a, int b) {
-           return to_string(a) + to_string(b) < to_string(b) + to_string(a); 
-        });
-        for (int i = 0; i < nums.size(); ++i) {
-            res += to_string(nums[i]);
+    int rob(vector<int>& nums) {
+        if (nums.size() == 0) return 0;
+        if (nums.size() == 1) return nums[0];
+        vector<int> dp(nums.size(), 0);
+        dp[0]=nums[0];
+        dp[1]=max(nums[0], nums[1]);
+        for (int i = 2; i < nums.size(); ++i) {
+            dp[i] = max(dp[i - 1], nums[i] + dp[i - 2]);
         }
-        return res;
-    }       
+        return dp.back();
+    }
 };
